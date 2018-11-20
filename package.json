@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-neutts",
+  "version": "1.0.0",
+  "description": "Cordova Text-to-Speech Plugin",
+  "cordova": {
+    "id": "cordova-plugin-neutts",
+    "platforms": [
+      "ios",
+      "wp8",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeutrinosPlatform/cordova-plugin-neutts.git"
+  },
+  "keywords": [
+    "cordova",
+    "tts",
+    "text-to-speech",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova-android"
+  ],
+  "author": "VILIC VANE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeutrinosPlatform/cordova-plugin-neutts/issues"
+  },
+  "homepage": "https://github.com/NeutrinosPlatform/cordova-plugin-neutts#readme"
+}
